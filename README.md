@@ -1,4 +1,4 @@
-istema de Gestão de Estoque de Produtos
+Sistema de Gestão de Estoque de Produtos
 Descrição:
 Este sistema permite o cadastro e exibição de produtos, juntamente com a gestão de suas quantidades mínima e máxima de estoque. O sistema também calcula o estoque médio de cada produto com base nas quantidades fornecidas e permite limpar a lista de produtos cadastrados.
 
